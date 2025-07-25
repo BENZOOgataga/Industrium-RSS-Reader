@@ -17,7 +17,7 @@ Ce projet est un lecteur RSS web qui affiche de manière élégante les articles
 
 ## 📸 Aperçu
 
-![Industrium RSS Reader Preview](https://raw.githubusercontent.com/BENZOOgataga/Industrium-RSS-Reader/main/preview.png)
+![Industrium RSS Reader Preview](https://raw.githubusercontent.com/BENZOOgataga/Industrium-RSS-Reader/refs/heads/main/main/preview.png)
 
 *Interface moderne avec thème sombre et effets glassmorphism*
 
