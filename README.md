@@ -2,7 +2,11 @@
 
 Un lecteur RSS moderne et élégant pour afficher les derniers articles du blog Industrium.
 
+![GitHub repo size](https://img.shields.io/github/repo-size/BENZOOgataga/Industrium-RSS-Reader?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/BENZOOgataga/Industrium-RSS-Reader?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/BENZOOgataga/Industrium-RSS-Reader?style=for-the-badge)
 ![Industrium Blog](https://img.shields.io/badge/Blog-Industrium-blue?style=for-the-badge&logo=rss)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -10,6 +14,12 @@ Un lecteur RSS moderne et élégant pour afficher les derniers articles du blog 
 ## 📖 Description
 
 Ce projet est un lecteur RSS web qui affiche de manière élégante les articles du blog Industrium (https://blog.industrium.net/). Il présente une interface moderne avec un thème sombre et des effets visuels attractifs.
+
+## 📸 Aperçu
+
+![Industrium RSS Reader Preview](https://raw.githubusercontent.com/BENZOOgataga/Industrium-RSS-Reader/main/preview.png)
+
+*Interface moderne avec thème sombre et effets glassmorphism*
 
 ## ✨ Fonctionnalités
 
@@ -29,8 +39,8 @@ Ce projet est un lecteur RSS web qui affiche de manière élégante les articles
 3. Le site se charge automatiquement avec les derniers articles
 
 ```bash
-git clone https://github.com/[VOTRE-USERNAME]/industrium-rss-reader.git
-cd industrium-rss-reader
+git clone https://github.com/BENZOOgataga/Industrium-RSS-Reader.git
+cd Industrium-RSS-Reader
 ```
 
 Puis ouvrez simplement `index.html` dans votre navigateur préféré.
