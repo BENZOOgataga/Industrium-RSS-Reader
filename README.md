@@ -39,7 +39,11 @@ Ce projet est un lecteur RSS web qui affiche de manière élégante les articles
 3. Le site se charge automatiquement avec les derniers articles
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/BENZOOgataga/Industrium-RSS-Reader.git
+=======
+git clone [https://github.com/[VOTRE-USERNAME]/industrium-rss-reader.git](https://github.com/BENZOOgataga/Industrium-RSS-Reader.git)
+>>>>>>> 308fc78e0f71b9aa814691515f94791ff5601d7c
 cd Industrium-RSS-Reader
 ```
 
